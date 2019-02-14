@@ -1,0 +1,8 @@
+version: '2'
+
+services: 
+
+  portal:
+    env_file:
+      - ../portal.env
+
